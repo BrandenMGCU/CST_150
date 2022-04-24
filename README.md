@@ -1,2 +1,3 @@
-# CST_150
-Featuring all assignments for class CST-150
+# Class: CST_150
+Featuring all assignments for class CST_150
+Visual Studio C#
