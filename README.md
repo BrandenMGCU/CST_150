@@ -1,3 +1,6 @@
-# Class: CST_150
-Featuring all assignments for class CST_150
-Visual Studio C#
+Name: Branden M.
+
+Class: CST 150
+(Featuring all assignments, projects and documents)
+
+Language: C#
