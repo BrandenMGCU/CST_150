@@ -106,17 +106,6 @@ namespace Activity_4
                 daycalculation = Convert.ToInt32(textBox1.Text) / Convert.ToInt32(days); 
             textBox4.Text = daycalculation.ToString();
 
-            //int answer = Int32.Parse(textBox1.Text) / 86400;
-            //int.TryParse(textBox4.Text, out answer);
-            //textBox4.Text = answer.ToString();
-
-
-                // Int32.TryParse(dayscalculation, out days);
-                // textBox4.Text = dayscalculation / 86400;
-                // int t4 = Int32.TryParse(textBox1.Text) / 86400;
-                //textBox4.Text = t4.ToString();
-
-
         }
     }
 }
