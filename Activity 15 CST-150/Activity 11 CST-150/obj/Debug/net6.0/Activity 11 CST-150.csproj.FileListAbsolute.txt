@@ -1,0 +1,15 @@
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\bin\Debug\net6.0\Activity 11 CST-150.exe
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\bin\Debug\net6.0\Activity 11 CST-150.deps.json
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\bin\Debug\net6.0\Activity 11 CST-150.runtimeconfig.json
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\bin\Debug\net6.0\Activity 11 CST-150.dll
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\bin\Debug\net6.0\Activity 11 CST-150.pdb
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.csproj.AssemblyReference.cache
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.AssemblyInfoInputs.cache
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.AssemblyInfo.cs
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.csproj.CoreCompileInputs.cache
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.dll
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\refint\Activity 11 CST-150.dll
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.pdb
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\Activity 11 CST-150.genruntimeconfig.cache
+C:\Users\technologyhyper\source\repos\Activity 11 CST-150\obj\Debug\net6.0\ref\Activity 11 CST-150.dll
