@@ -1,0 +1,15 @@
+C:\Users\Branden\source\repos\M3 CST-150\bin\Debug\net6.0\M3 CST-150.exe
+C:\Users\Branden\source\repos\M3 CST-150\bin\Debug\net6.0\M3 CST-150.deps.json
+C:\Users\Branden\source\repos\M3 CST-150\bin\Debug\net6.0\M3 CST-150.runtimeconfig.json
+C:\Users\Branden\source\repos\M3 CST-150\bin\Debug\net6.0\M3 CST-150.dll
+C:\Users\Branden\source\repos\M3 CST-150\bin\Debug\net6.0\M3 CST-150.pdb
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.csproj.AssemblyReference.cache
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.AssemblyInfoInputs.cache
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.AssemblyInfo.cs
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.dll
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\refint\M3 CST-150.dll
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.pdb
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\M3 CST-150.genruntimeconfig.cache
+C:\Users\Branden\source\repos\M3 CST-150\obj\Debug\net6.0\ref\M3 CST-150.dll
