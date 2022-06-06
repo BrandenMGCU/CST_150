@@ -1,0 +1,15 @@
+C:\Users\Branden\source\repos\Milestone 4\bin\Debug\net6.0\Milestone 4.exe
+C:\Users\Branden\source\repos\Milestone 4\bin\Debug\net6.0\Milestone 4.deps.json
+C:\Users\Branden\source\repos\Milestone 4\bin\Debug\net6.0\Milestone 4.runtimeconfig.json
+C:\Users\Branden\source\repos\Milestone 4\bin\Debug\net6.0\Milestone 4.dll
+C:\Users\Branden\source\repos\Milestone 4\bin\Debug\net6.0\Milestone 4.pdb
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.csproj.AssemblyReference.cache
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.AssemblyInfoInputs.cache
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.AssemblyInfo.cs
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.dll
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\refint\Milestone 4.dll
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.pdb
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\Milestone 4.genruntimeconfig.cache
+C:\Users\Branden\source\repos\Milestone 4\obj\Debug\net6.0\ref\Milestone 4.dll
